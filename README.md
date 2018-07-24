@@ -2,14 +2,14 @@
 This repository contains my projects from an upper level undergraduate class in Python on data visualization and statistics for geo &amp; space scientists. 
 
 # Content
-### [Lab 1 - Intro to Python - What IS Pandas? (1/10/2018)]()
+### [Lab 1 - Global Temperature Changes (1/10/2018)](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Global%20Temperature%20Changes/Global%20Climatic%20Averages.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century 
 
 
-### [Lab 2 - Multi-plots and Datetime Objects (1/17/2018)]()
+### [Lab 2 - Bird Migration Changes (1/17/2018)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns 
 
-### [Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)]()  
+### [Lab 3 - Juno Mission Spacecraft Data (1/24/2018)]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images with Jupyter: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (1/31/2018)]()  
