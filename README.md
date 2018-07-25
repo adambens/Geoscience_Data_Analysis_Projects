@@ -34,5 +34,5 @@ This repository contains my projects from an upper level undergraduate class in 
 ### [Space Weather Classification and Correlations (3/7/2018)]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Solar Impacts on Geomagnetic Storms
 
-### [Lab 8 - Object Oriented Programming and Bootstrap Analysis (3/14/2018)]()  
+### [Space Weather Object Oriented Programming and Bootstrap Analysis (3/14/2018)]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
