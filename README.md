@@ -19,6 +19,8 @@ This repository contains my projects from an upper level undergraduate class in 
 ### [Mission Juno Magnetic Field Data]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
 
+<img width="600" alt="img1" src="./Juno Magnetic Field Data/Figures/JunoCam_MagData_2017-086-08-20.png">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are eqns written in LaTeX.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
