@@ -10,8 +10,11 @@ This repository contains my projects from an upper level undergraduate class in 
 ### [Bird Wintering Locations](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Bird%20Wintering%20Patterns/Bird%20Wintering%20Locations.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns 
 
+
 ### [Mission Juno Spacecraft Image Data]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images with Jupyter: Looking at Spacecraft Image Data from the Recent Juno Mission  
+
+<img width="600" alt="img1" src="./Juno Image Data/FinalPNGs/AugmentedImage.png">
 
 ### [Mission Juno Magnetic Field Data]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
