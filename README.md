@@ -5,6 +5,7 @@ This repository contains my projects from an upper level undergraduate class in 
 ### [Global Temperature Changes](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Global%20Temperature%20Changes/Global%20Climatic%20Averages.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century 
 
+<img width="600" alt="img1" src="./Global Temperature Changes/Figures/TempVariants_GlobalYearlyAverages.png">
 
 ### [Bird Wintering Locations](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Bird%20Wintering%20Patterns/Bird%20Wintering%20Locations.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns 
