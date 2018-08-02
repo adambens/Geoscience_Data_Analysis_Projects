@@ -35,7 +35,7 @@ This repository contains my projects from an upper level undergraduate class in 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additionally this lab is dependent on the Python packages for [netCDF-4](http://unidata.github.io/netcdf4-python/) and [Basemap](https://matplotlib.org/basemap/).
 
-<img width="600" alt="img1" src="./Sea Ice Analysis/Figures/SeaIceRegression.jpg.png">
+<img width="600" alt="img1" src="./Sea Ice Analysis/Figures/SeaIceRegression.jpg">
 
 ### [Space Weather Classification and Correlations]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Solar Impacts on Geomagnetic Storms
