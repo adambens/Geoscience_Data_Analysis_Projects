@@ -50,4 +50,4 @@ This repository contains my projects from an upper level undergraduate class in 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
-<img width="600" alt="img1" src="./Space Weather OOP/Figures/Bootstrap.png">
+<img width="600" alt="img1" src="./Space Weather OOP/Figures/BootStrap.png">
