@@ -44,10 +44,10 @@ This repository contains my projects from an upper level undergraduate class in 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Solar Impacts on Geomagnetic Storms
 
-<img width="600" alt="img1" src="./Space Weather Classification/Figures/Solar_Activity.jpg">
+<img width="600" alt="img1" src="./Space Weather Classification/Figures/Solar_Activity.png">
 
 ### [Space Weather Object Oriented Programming and Bootstrap Analysis](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Space%20Weather%20OOP/Lab8_SpaceWeatherBootstraps.ipynb)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
-<img width="600" alt="img1" src="./Space Weather OOP/Figures/Bootstrap.jpg">
+<img width="600" alt="img1" src="./Space Weather OOP/Figures/Bootstrap.png">
