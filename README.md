@@ -29,7 +29,7 @@ This repository contains my projects from an upper level undergraduate class in 
 ### [Health Impacts of Climatic Changes]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
 
-### [Sea Ice Linear Regression & Geo-Mapping]()  
+### [Sea Ice Linear Regression & Geo-Mapping](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Sea%20Ice%20Analysis/Mapping%20Sea%20Ice.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arctic Indicators: Calculating Rates of Change of Sea Ice Extent & Mapping
 
 <img width="600" alt="img1" src="./Sea Ice Analysis/Figures/SeaIceRegression.jpg">
